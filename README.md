@@ -1,3 +1,5 @@
+vue:3.0
+
 1.  **Dev commnand.**
 
     ```shell
