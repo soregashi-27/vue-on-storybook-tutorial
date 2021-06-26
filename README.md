@@ -1,3 +1,17 @@
+1.  **Dev commnand.**
+
+    ```shell
+    # Run the test runner (Jest) in a terminal:
+    yarn test:unit
+
+    # Start the component explorer on port 6006:
+    yarn storybook
+
+    # Run the frontend app proper on port 8080:
+    yarn serve
+    ```
+    
+
 
 <p align="center">
   <a href="https://www.chromatic.com/">
